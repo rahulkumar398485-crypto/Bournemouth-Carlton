@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-key="pool_title">
+      Pool & Leisure | Carlton Hotel Bournemouth
+    </title>
+
+    <meta
+      name="description"
+      data-key="pool_meta"
+      content="Enjoy indoor and outdoor swimming pools, gym and relaxation at Carlton Hotel Bournemouth."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="pool.css" />
+  </head>
+
+  <body>
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/output-onlinepngtools.png"
+              alt="Carlton Hotel"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                    <a href="gastronomy.html" data-key="nav_gastronomy"
+                      >Gastronomie - Hotel</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="tourist-attractions.html"
+                      data-key="nav_attractions"
+                      >Tourist Attraction</a
+                    >
+                  </li>
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_accommodation"
+                  >Accommodation</a
+                >
+                <ul class="dropdown-menu">
+                  <li><a href="rooms.html" data-key="nav_rooms">Rooms</a></li>
+                  <li>
+                    <a href="suites.html" data-key="nav_suites">Suites</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_wellness"
+                  >Wellness</a
+                >
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="pool.html" data-key="nav_pool">Pool Area</a>
+                  </li>
+                  <li><a href="spa.html" data-key="nav_spa">Spa</a></li>
+                  <!-- <li>
+                    <a href="indoor-playground.html" data-key="nav_playground"
+                      >Indoor Playground</a
+                    >
+                  </li> -->
+                </ul>
+              </li>
+
+              <li><a href="family.html" data-key="nav_family">Family</a></li>
+              <!-- <li><a href="offers.html" data-key="nav_offers">Offers</a></li> -->
+
+              <li>
+                <a href="events.html" data-key="nav_events">Meeting & Events</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+          <!-- <button id="langToggle" class="lang-btn">DE</button> -->
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span><span></span><span></span>
+        </div>
+      </div>
+    </header>
+
+    <!-- HERO -->
+    <section
+      class="hero-section"
+      style="background-image: url(&quot;images/Pool&Spa/pool3.jpg&quot;)"
+    >
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="pool_hero">Pool & Leisure</h1>
+        <p data-key="pool_desc">Relax, unwind and recharge by the sea</p>
+        <a href="#facilities" class="btn-primary" data-key="pool_cta"
+          >Explore Facilities</a
+        >
+      </div>
+    </section>
+
+    <!-- OVERVIEW -->
+    <section class="overview-section">
+      <div class="section-label" data-key="pool_label">Leisure</div>
+
+      <div class="overview-container">
+        <div class="overview-divider"></div>
+
+        <h2 data-key="pool_heading">Relaxation & Wellness</h2>
+
+        <p data-animate data-key="pool_text">
+          Carlton Hotel Bournemouth offers indoor and outdoor swimming pools, a
+          fitness centre and relaxing leisure facilities — perfect after a day
+          at the beach or exploring the town.
+        </p>
+
+        <div class="overview-divider"></div>
+      </div>
+    </section>
+
+    <!-- FACILITIES -->
+    <section class="facilities-section" id="facilities">
+      <div class="section-label" data-key="pool_features">Facilities</div>
+      <h2 data-key="pool_features_title">Enjoy Our Leisure Facilities</h2>
+
+      <div class="facilities-container">
+        <!-- Indoor Pool -->
+        <div class="facility-card" data-animate>
+          <img src="images/Pool&Spa/pool2.jpg" />
+          <h3 data-key="indoor_pool">Indoor Pool</h3>
+          <p data-key="indoor_pool_desc">
+            Heated indoor swimming pool perfect for relaxation and year-round
+            enjoyment.
+          </p>
+          <button class="details-btn" data-facility="indoor">Details</button>
+        </div>
+
+        <!-- Outdoor Pool -->
+        <div class="facility-card" data-animate>
+          <img src="images/Pool&Spa/pool4.jpg" />
+          <h3 data-key="outdoor_pool">Outdoor Pool</h3>
+          <p data-key="outdoor_pool_desc">
+            Seasonal outdoor pool with sun loungers and relaxing atmosphere.
+          </p>
+          <button class="details-btn" data-facility="river">Details</button>
+        </div>
+
+        <!-- Gym -->
+        <div class="facility-card" data-animate>
+          <img src="images/Pool&Spa/gym.jpg" />
+          <h3 data-key="gym">Fitness Centre</h3>
+          <p data-key="gym_desc">
+            Fully equipped gym to maintain your fitness during your stay.
+          </p>
+          <button class="details-btn" data-facility="slide">Details</button>
+        </div>
+
+        <!-- Relaxation -->
+        <div class="facility-card" data-animate>
+          <img src="images/Pool&Spa/pool.jpg" />
+          <h3 data-key="relax">Relaxation Area</h3>
+          <p data-key="relax_desc">
+            Unwind and recharge in a calm and peaceful environment.
+          </p>
+          <button class="details-btn" data-facility="kids">Details</button>
+        </div>
+      </div>
+
+      <!-- MODAL -->
+      <div class="modal" id="facilityModal">
+        <div class="modal-content">
+          <span class="modal-close">&times;</span>
+          <h3 id="modalTitle"></h3>
+          <div id="modalDetails"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="cta_title">Relax & Recharge</h2>
+
+        <p data-key="cta_desc">
+          Enjoy our pools and leisure facilities during your stay at Carlton
+          Hotel Bournemouth.
+        </p>
+
+        <p>
+          <a href="mailto:Sales.carlton@belvilla.com"
+            >Sales.carlton@belvilla.com</a
+          >
+          |
+          <a href="tel:+441202552011">+44 1202 552011</a>
+        </p>
+
+        <a href="#" class="btn-primary" data-key="book_now">Book Now</a>
+      </div>
+    </section>
+
+ <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us"
+            >Contact Us</a
+          >
+          <address>
+            Bournemouth Carlton Hotel by Sunday<br />
+             East Overcliff Grove Road​<br />
+            Bournemouth, UK ​<br />
+            <a href="tel:+493830297700">+49 38302 95</a><br />
+            <a href="mailto:reception.carlton@hotelssunday.com"
+              >reception.carlton@hotelssunday.com</a
+            ><br />
+            <a href="mailto:reservations.carlton@hotelssunday.com"
+              >reservations.carlton@hotelssunday.com</a
+            ><br />
+            <!-- <a href="">Instagram: rugenthotel</a><br /> -->
+            <!-- <a href=" ">Facebook: rugenHotel </a> -->
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+            <li>
+              <a href="rooms.html" data-key="footer_accommodation"
+                >Accommodation</a
+              >
+            </li>
+            <li><a href="spa.html" data-key="footer_spa">Spa & Wellness</a></li>
+            <li>
+              <a href="gastronomy.html" data-key="footer_gastro">Gastronomy</a>
+            </li>
+            <li><a href="family.html" data-key="footer_family">Families</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+          <form
+            action="https://formsubmit.co/sales.rugen@hotelssunday.com"
+            method="POST"
+            class="newsletter-form"
+          >
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              aria-label="Your Email"
+              data-key-placeholder="newsletter_placeholder"
+            />
+            <button
+              class="btn"
+              type="submit"
+              aria-label="Subscribe to Newsletter"
+              data-key="subscribe"
+            >
+              Subscribe
+            </button>
+            <input type="hidden" name="_captcha" value="false" />
+            <input
+              type="hidden"
+              name="_subject"
+              value="New Newsletter Signup!"
+            />
+            <input
+              type="hidden"
+              name="_next"
+              value="https://resortrugen.booksundays.com/newsletter?subscribed=true"
+            />
+          </form>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Bournemouth Carlton Hotel by Sunday
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="pool.js"></script>
+  </body>
+</html>

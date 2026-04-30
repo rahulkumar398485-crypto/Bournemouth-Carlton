@@ -1,0 +1,511 @@
+{
+  "page_title": "Bournemouth Carlton Hotel",
+  "meta_description": "Discover Bournemouth Carlton Hotel – a seafront hotel on East Cliff with sea views, pools, gym and beach access.",
+
+  "nav_about": "About",
+  "nav_story": "Our Story",
+  "nav_contact": "Contact Us",
+  "nav_gastronomy": "Dining",
+  "nav_attractions": "Tourist Attractions",
+  "nav_gallery": "Gallery",
+  "nav_accommodation": "Accommodation",
+  "nav_rooms": "Rooms",
+  "nav_suites": "Suites",
+  "nav_wellness": "Wellness",
+  "nav_pool": "Pool Area",
+  "nav_spa": "Spa",
+  "nav_playground": "Indoor Activities",
+  "nav_family": "Family",
+  "nav_events": "Meetings & Events",
+
+  "book_now": "Book Now",
+
+  "hero_title": "Bournemouth Carlton Hotel",
+  "hero_subtitle": "Perched on Bournemouth's Famous East Cliff – Dramatic Sea Views Await",
+  "hero_cta": "Book Now",
+
+  "hero2_title": "Elegant Rooms & Suites",
+  "hero2_desc": "Ocean-view rooms, balconies & family options",
+  "hero2_cta": "Explore Rooms",
+
+  "hero3_title": "Leisure & Wellness",
+  "hero3_desc": "Indoor & outdoor pools, gym & relaxation",
+  "hero3_cta": "Discover More",
+
+  "quote": "Luxury coastal stays with breathtaking Bournemouth Bay views.",
+
+  "highlights": "Highlights",
+  "highlight_rooms": "Rooms",
+  "highlight_suites": "Suites",
+  "highlight_spa": "Wellness & Spa",
+  "highlight_gastro": "Dining",
+  "highlight_family": "Family Activities",
+  "highlight_events": "Meetings & Events",
+
+  "discover": "Discover",
+  "discover_title": "A Historic Seafront Hotel",
+  "discover_desc": "A landmark Victorian hotel on Bournemouth’s East Cliff with stunning sea views, pools, dining and direct beach access.",
+  "learn_more": "Learn More",
+
+  "accommodation": "Accommodation",
+  "acc_title": "Rooms & Suites",
+  "acc_desc": "Choose from classic rooms, family suites and sea-view balconies designed for comfort and relaxation.",
+  "view_rooms": "View Rooms",
+
+
+  "dining_title": "Frederick's Restaurant",
+  "dining_desc": "Modern British cuisine with seasonal ingredients and panoramic sea views.",
+  "reserve_table": "Reserve Table",
+
+  "explore": "Explore Bournemouth",
+ 
+  "pier": "Pier",
+  "museum": "Museum",
+  "garden": "Gardens",
+
+  "contact_us": "Contact Us",
+  "quick_links": "Quick Links",
+  "newsletter": "Newsletter",
+  "subscribe": "Subscribe",
+
+  "footer_accommodation": "Accommodation",
+  "footer_spa": "Spa & Wellness",
+  "footer_gastro": "Dining",
+  "footer_family": "Family",
+
+  "newsletter_placeholder": "Your email address",
+
+  "footer_copy": "© 2026 Carlton Hotel Bournemouth",
+
+  "logo_alt": "Carlton Hotel",
+  "hero1_alt": "Sea View",
+  "hero2_alt": "Rooms",
+  "hero3_alt": "Pool",
+  "about_page_title": "Bournemouth Carlton Hotel",
+  "about_meta_description": "Discover Bournemouth Carlton Hotel – a historic seafront hotel on East Cliff with stunning sea views, pools and leisure facilities.",
+
+
+  "about_hero_title": "Bournemouth Carlton Hotel",
+  "about_hero_desc": "Perched on Bournemouth's East Cliff with breathtaking sea views.",
+
+  "about_section_story": "Our Story",
+  "about_title": "A Historic Seafront Landmark",
+
+  "about_history_title": "A Legacy Since 1903",
+  "about_history_desc": "The Bournemouth Carlton Hotel is a historic Victorian-era hotel located on the East Cliff, known for its elegant architecture, dramatic bay views and rich heritage. It has welcomed royalty, celebrities and world leaders throughout its history.",
+
+  "about_war_title": "A Place in History",
+  "about_war_desc": "During World War II, General Eisenhower and Field Marshal Montgomery met here to discuss D-Day plans. Today, the hotel combines timeless charm with modern comfort for unforgettable stays.",
+
+  "location": "Location",
+  "location_title": "Bournemouth East Cliff",
+  "location_desc": "Situated in the heart of Bournemouth, just steps from the beach, the hotel offers easy access to top attractions and coastal experiences.",
+
+  "nearby": "Nearby Attractions:",
+  "attr1": "Bournemouth Beach (4 min walk)",
+  "attr2": "Russell-Cotes Museum",
+  "attr3": "Bournemouth Pier",
+  "attr4": "Oceanarium",
+  "attr5": "Lower Gardens",
+
+  "why": "Why Guests Love It",
+  "why1": "Stunning sea views",
+  "why2": "Central location",
+  "why3": "Close to attractions",
+  "why4": "Perfect for leisure & events",
+
+  "values": "What We Offer",
+  "values_title": "Experience Carlton Hotel",
+
+  "val1": "Elegant Rooms",
+  "val1_desc": "Comfortable rooms with sea views, balconies and modern amenities.",
+
+  "val2": "Leisure Facilities",
+  "val2_desc": "Indoor & outdoor swimming pools, gym and relaxation areas.",
+
+  "val3": "Dining Experience",
+  "val3_desc": "Frederick’s Restaurant offering modern British cuisine.",
+
+  "val4": "Events & Weddings",
+  "val4_desc": "Elegant spaces for conferences, weddings and celebrations.",
+  "alt_hotel": "Hotel Exterior",
+  "alt_history": "Historic View",
+  "contact_page_title": "Contact Bournemouth Carlton Hotel",
+  "contact_meta_description": "Contact Bournemouth Carlton Hotel for bookings, events, dining or general enquiries.",
+  "contact_title": "Contact Us",
+  "contact_desc": "Plan your stay at Bournemouth Carlton Hotel",
+  "contact_cta": "Get in Touch",
+
+  "contact_form": "Get in Touch",
+
+  "contact_info": "Contact Information",
+  "contact_reach": "Reach Us",
+  "hotel_name": "Bournemouth Carlton Hotel",
+
+  "getting_here": "Getting Here",
+  "travel_title": "Travel to Bournemouth Carlton Hotel",
+
+  "by_train": "By Train",
+  "train_desc": "Bournemouth Railway Station is just 10 minutes away with easy taxi access.",
+
+  "by_car": "By Car",
+  "car_desc": "Located on East Cliff, easily accessible via A338 with parking available nearby.",
+
+  "by_air": "By Air",
+  "air_desc": "Nearest airport: Bournemouth Airport (15 minutes drive).",
+  "gastro_page_title": "Dining | Bournemouth Carlton Hotel",
+  "gastro_meta_description": "Enjoy modern British dining at Bournemouth Carlton Hotel with sea views, afternoon tea and elegant restaurant experiences.",
+  "gastro_title": "Dining at Carlton Hotel",
+  "gastro_desc": "A Culinary Experience with Stunning Sea Views",
+  "gastro_cta": "Explore Dining",
+
+  "gastro_overview_title": "A Taste of Bournemouth",
+  "gastro_overview_desc": "Frederick’s Restaurant offers modern British cuisine with seasonal ingredients, complemented by afternoon teas, elegant dining and breathtaking views of Bournemouth Bay.",
+
+  "rest1_title": "Frederick’s Restaurant",
+  "rest1_desc": "A historic restaurant established in 1947 offering modern British cuisine with seasonal ingredients, elegant interiors and panoramic sea views.",
+  "rest1_time": "Breakfast, Lunch & Dinner",
+
+  "rest2_title": "Lounge Bar",
+  "rest2_desc": "Relax with cocktails, wines and light meals in a stylish and comfortable setting, perfect after a day at the beach.",
+  "rest2_time": "Open Daily",
+
+  "rest3_title": "Afternoon Tea",
+  "rest3_desc": "Enjoy traditional British afternoon tea with scones, finger sandwiches and cakes in a charming seaside atmosphere.",
+  "rest3_time": "Served Daily",
+
+  "rest4_title": "Breakfast Experience",
+  "rest4_desc": "Start your day with a full English or continental breakfast buffet with fresh local ingredients.",
+  "rest4_time": "Morning Service",
+
+  "cta_title": "Reserve Your Table",
+  "cta_desc": "Enjoy unforgettable dining experiences with sea views at Bournemouth Carlton Hotel.",
+  "cta_button": "Contact Us",
+  "ta_page_title": "Explore Bournemouth | Carlton Hotel",
+  "ta_meta_description": "Discover Bournemouth attractions near Carlton Hotel including beaches, pier, gardens and museums.",
+
+  "ta_title": "Explore Bournemouth",
+  "ta_desc": "Discover attractions near Carlton Hotel",
+  "ta_cta": "Discover Attractions",
+
+  "ta_label": "Local Experiences",
+  "ta_overview_title": "Explore Bournemouth & Beyond",
+  "ta_overview_desc": "Located on the East Cliff, the Carlton Hotel is within walking distance of Bournemouth’s top attractions including beaches, gardens, museums and entertainment venues.",
+
+  "ta_top_label": "Top Attractions",
+  "ta_top_title": "Discover the Area",
+
+  "attr1_title": "Bournemouth Beach",
+  "attr1_desc": "A world-famous golden sandy beach just 4 minutes walk away.",
+
+  "attr2_title": "Bournemouth Pier",
+  "attr2_desc": "Entertainment hub with theatre, arcade and the famous PierZip.",
+
+  "attr3_title": "Russell-Cotes Museum",
+  "attr3_desc": "A unique art museum housed in a historic villa.",
+
+  "attr4_title": "Lower Gardens",
+  "attr4_desc": "Beautiful gardens perfect for walks, relaxation and family outings.",
+
+  "attr5_title": "Oceanarium",
+  "attr5_desc": "Explore marine life including penguins, sharks and turtles.",
+
+  "details": "Details",
+
+  "ta_jasmund_title": "Bournemouth Beach",
+  "ta_jasmund_modal": "A beautiful sandy beach perfect for relaxing walks, sunbathing and enjoying sea views.",
+
+  "ta_beach_title": "Bournemouth Pier",
+  "ta_beach_modal": "A lively attraction featuring entertainment, dining, arcades and the famous PierZip experience.",
+
+  "ta_museum_title": "Russell-Cotes Museum",
+  "ta_museum_modal": "A historic villa museum showcasing art, culture and unique collections overlooking the sea.",
+
+  "ta_festival_title": "Lower Gardens",
+  "ta_festival_modal": "A peaceful green space in the town centre ideal for relaxing walks and family outings.",
+
+  "ta_cycling_title": "Oceanarium",
+  "ta_cycling_modal": "A family-friendly attraction where you can explore fascinating marine life including sharks and turtles.",
+
+  "gallery_page_title": "Gallery | Carlton Hotel Bournemouth",
+  "gallery_meta_description": "Explore the Carlton Hotel Bournemouth through our gallery – rooms, dining, pools and sea views.",
+
+
+  "gallery_title": "Gallery",
+  "gallery_desc": "Discover Carlton Hotel Bournemouth",
+  "gallery_cta": "Explore Gallery",
+
+  "gallery_label": "Moments at Carlton",
+  "gallery_heading": "Explore Our Hotel",
+
+  "all": "All",
+  "rooms": "Rooms",
+  "dining": "Dining",
+  "leisure": "Leisure",
+  "beach": "Beach",
+
+  "img1": "Elegant Rooms",
+  "img2": "Luxury Suites",
+  "img3": "Frederick’s Restaurant",
+  "img4": "Lounge Bar",
+  "img5": "Indoor Pool",
+  "img6": "Outdoor Pool",
+  "img7": "Bournemouth Beach",
+  "img8": "Bournemouth Pier",
+
+  "hero_alt": "Carlton Hotel View",
+  "rooms_page_title": "Rooms | Carlton Hotel Bournemouth",
+  "rooms_meta": "Comfortable rooms at Carlton Hotel Bournemouth including classic, family and balcony rooms.",
+
+  "rooms_title": "Rooms",
+  "rooms_desc": "Comfortable stays with style and relaxation",
+  "rooms_cta": "Explore Rooms",
+
+  "rooms_label": "Accommodation",
+  "rooms_heading": "Comfort & Convenience",
+  "rooms_text": "Carlton Hotel Bournemouth offers a range of comfortable rooms including classic doubles, family rooms and balcony rooms with sea views — perfect for both leisure and business stays.",
+
+  "room_types": "Room Types",
+  "choose_room": "Choose Your Room",
+
+  "room_classic": "Classic Double Room",
+  "room_classic_desc": "Comfortable double room with modern amenities, ideal for couples and short stays.",
+
+  "room_family": "Family Room",
+  "room_family_desc": "Spacious room designed for families with flexible bedding and extra space.",
+
+  "room_balcony": "Balcony Room",
+  "room_balcony_desc": "Enjoy beautiful sea views from your private balcony with relaxing seating.",
+
+  "room_exec": "Executive Room",
+  "room_exec_desc": "Stylish room with enhanced comfort, workspace and elegant interior design.",
+
+  "book_room": "Book Now",
+
+  "hotel_standard_title": "Classic Double Room",
+  "hotel_standard_modal": "A comfortable double room featuring modern amenities, perfect for couples and short stays.",
+
+  "hotel_superior_title": "Balcony Room",
+  "hotel_superior_modal": "Enjoy a relaxing stay with private balcony and stunning sea views.",
+
+  "hotel_junior_title": "Family Room",
+  "hotel_junior_modal": "Spacious room ideal for families with flexible bedding and extra comfort.",
+
+  "hotel_landauer_title": "Executive Room",
+  "hotel_landauer_modal": "Premium room offering elegant interiors, workspace and enhanced comfort.",
+
+  
+  "suites_meta_title": "Suites | Carlton Hotel Bournemouth",
+  "suites_meta_desc": "Luxury suites at Carlton Hotel Bournemouth with sea views, balconies and premium comfort.",
+
+  "suites_hero_title": "Luxury Suites",
+  "suites_hero_desc": "Elegant spaces with sea views and premium comfort",
+  "suites_cta": "Explore Suites",
+
+  "suites_label": "Suites",
+  "suites_title": "Experience Luxury Living",
+  "suites_desc": "Our suites offer spacious interiors, sea views and refined comfort for an unforgettable stay.",
+
+  "suite_types": "Suite Types",
+  "choose_suite": "Choose Your Suite",
+
+  "suite_exec": "Executive Suite",
+  "suite_exec_desc": "Spacious suite with modern interiors and enhanced comfort.",
+
+  "suite_balcony": "Balcony Suite",
+  "suite_balcony_desc": "Private balcony with stunning sea views and relaxing space.",
+
+  "suite_deluxe": "Deluxe Suite",
+  "suite_deluxe_desc": "Elegant suite with separate lounge and luxury interiors.",
+
+  "suite_premium": "Premium Sea View Suite",
+  "suite_premium_desc": "Top-tier suite with panoramic views of Bournemouth Bay.",
+
+  "suites_dog_title": "Vacation with Your Dog",
+  "suites_dog_desc1": "The Bournemouth Carlton Hotel is a pet-friendly Victorian hotel located on the East Cliff.",
+  "suites_dog_desc2": "Pets are allowed in selected rooms with a £25 per night fee. Dogs are welcome in lounge areas and outdoor gardens.",
+
+  "apartments_onebed_title": "Executive Suite",
+  "apartments_onebed_modal": "Spacious suite with modern interiors, workspace and premium comfort.",
+
+  "apartments_twobed_title": "Balcony Suite",
+  "apartments_twobed_modal": "Suite with private balcony offering beautiful sea views and relaxing seating.",
+
+  "apartments_superior_title": "Deluxe Suite",
+  "apartments_superior_modal": "Large suite with separate living area and elegant furnishings.",
+
+  "apartments_deluxe_title": "Premium Sea View Suite",
+  "apartments_deluxe_modal": "Luxury suite with panoramic sea views and premium space.",
+  "pool_title": "Pool & Leisure | Carlton Hotel Bournemouth",
+  "pool_meta": "Enjoy indoor and outdoor swimming pools, gym and relaxation at Carlton Hotel Bournemouth.",
+
+  "pool_hero": "Pool & Leisure",
+  "pool_desc": "Relax, unwind and recharge by the sea",
+  "pool_cta": "Explore Facilities",
+
+  "pool_label": "Leisure",
+  "pool_heading": "Relaxation & Wellness",
+  "pool_text": "Carlton Hotel Bournemouth offers indoor and outdoor swimming pools, a fitness centre and relaxing leisure facilities.",
+
+  "pool_features": "Facilities",
+  "pool_features_title": "Enjoy Our Leisure Facilities",
+
+  "indoor_pool": "Indoor Pool",
+  "indoor_pool_desc": "Heated indoor swimming pool perfect for relaxation and year-round enjoyment.",
+
+  "outdoor_pool": "Outdoor Pool",
+  "outdoor_pool_desc": "Seasonal outdoor pool with sun loungers and relaxing atmosphere.",
+
+  "gym": "Fitness Centre",
+  "gym_desc": "Fully equipped gym to maintain your fitness during your stay.",
+
+  "relax": "Relaxation Area",
+  "relax_desc": "Unwind in a calm and peaceful environment.",
+
+  "pool_indoor_modal": "Enjoy a heated indoor swimming pool designed for relaxation and comfort.",
+  "pool_slide_modal": "Stay active in the fitness centre with modern equipment.",
+  "pool_river_modal": "Relax outdoors by the seasonal pool with sun loungers.",
+  "pool_kids_modal": "Unwind in dedicated relaxation areas for a peaceful experience.",
+  "spa_title": "Spa & Wellness | Carlton Hotel Bournemouth",
+  "spa_meta": "Relax at Carlton Hotel Bournemouth with spa treatments, wellness experiences and leisure facilities.",
+
+  "spa_hero": "Spa & Wellness",
+  "spa_desc": "Relax, rejuvenate and unwind",
+  "spa_cta": "Discover Wellness",
+
+  "spa_label": "Wellness",
+  "spa_heading": "A Relaxing Escape",
+  "spa_text": "Enjoy a relaxing wellness experience with spa treatments, calming spaces and access to leisure facilities including pools and fitness areas.",
+
+  "spa_features": "Spa Facilities",
+  "spa_features_title": "Relax & Recharge",
+
+  "spa_treatment": "Spa Treatments",
+  "spa_treatment_desc": "Indulge in relaxing massages and beauty treatments designed to rejuvenate body and mind.",
+
+  "spa_relax": "Relaxation Areas",
+  "spa_relax_desc": "Unwind in calm and peaceful spaces designed for total relaxation.",
+
+  "spa_pool": "Pool Access",
+  "spa_pool_desc": "Enjoy access to indoor and outdoor pools as part of your wellness experience.",
+
+  "spa_fitness": "Fitness & Wellness",
+  "spa_fitness_desc": "Stay active with fitness facilities and wellness-focused activities.",
+
+  "spa_hours": "Opening Hours",
+  "spa_hours_title": "Spa Opening Times",
+  "spa_time_main": "Daily: 8:00 AM – 9:00 PM",
+  "spa_time_note": "Treatments available by appointment.",
+
+  "spa_cta_title": "Book Your Wellness Experience",
+  "spa_cta_desc": "Relax and recharge during your stay.",
+  "ip_title": "Family & Indoor Activities | Carlton Hotel Bournemouth",
+  "ip_meta": "Family-friendly activities and indoor entertainment at Carlton Hotel Bournemouth.",
+
+  "ip_hero": "Family Activities",
+  "ip_desc": "Fun experiences for children and families",
+  "ip_cta": "Explore Activities",
+
+  "ip_label": "Family",
+  "ip_heading": "Fun for All Ages",
+  "ip_text": "Carlton Hotel Bournemouth offers family-friendly experiences with indoor entertainment, leisure activities and nearby attractions perfect for children and families.",
+
+  "ip_features": "Activities",
+  "ip_features_title": "Family Experiences",
+
+  "games": "Indoor Games",
+  "games_desc": "Enjoy indoor games and activities designed for children and families.",
+
+  "play": "Play Area",
+  "play_desc": "Dedicated areas for children to play, explore and have fun safely.",
+
+  "family": "Family Time",
+  "family_desc": "Spend quality time together with activities suitable for all ages.",
+
+  "outdoor": "Outdoor Fun",
+  "outdoor_desc": "Enjoy beach access and nearby attractions for family adventures.",
+
+  "ip_kids": "Family Experiences",
+  "ip_family_title": "Family-Friendly Stay",
+  "ip_family_text": "From beach outings to indoor leisure activities, Carlton Hotel Bournemouth is ideal for families looking for fun and relaxation.",
+  "ip_family_note": "Nearby attractions and hotel facilities ensure entertainment for all ages.",
+  "family_title": "Family Stay | Carlton Hotel Bournemouth",
+  "family_meta": "Family-friendly stays at Carlton Hotel Bournemouth with beach access, pools and activities for all ages.",
+
+  "family_hero": "Family Stays",
+  "family_cta": "Explore Activities",
+
+  "family_label": "Family",
+  "family_heading": "Perfect for Families",
+  "family_text": "Carlton Hotel Bournemouth offers a welcoming environment for families with spacious rooms, leisure facilities, and easy access to Bournemouth Beach and nearby attractions.",
+
+  "family_activities": "Activities",
+  "family_activities_title": "Fun for Everyone",
+
+  "family_pool": "Swimming Pools",
+  "family_pool_desc": "Indoor and outdoor pools for fun and relaxation for all ages.",
+
+  "family_beach": "Beach Access",
+  "family_beach_desc": "Just a short walk to Bournemouth’s famous sandy beach.",
+
+  "family_garden": "Gardens & Walks",
+  "family_garden_desc": "Explore nearby gardens and scenic walking routes.",
+
+  "family_games": "Indoor Activities",
+  "family_games_desc": "Enjoy indoor games and family-friendly entertainment.",
+
+  "family_outdoor": "Explore Bournemouth",
+
+  "family_pier": "Bournemouth Pier",
+  "family_pier_desc": "Enjoy arcades, rides and family entertainment at the iconic pier.",
+
+  "family_oceanarium": "Oceanarium",
+  "family_oceanarium_desc": "Discover marine life including penguins, sharks and turtles.",
+  "events_title": "Meetings & Events | Carlton Hotel Bournemouth",
+  "events_meta": "Host meetings, weddings and events at Carlton Hotel Bournemouth with sea views and elegant venues.",
+
+  "events_hero": "Meetings & Events",
+  "events_desc": "Elegant spaces with stunning sea views",
+  "events_cta": "Explore Spaces",
+
+  "events_heading": "A Coastal Event Destination",
+  "events_text1": "Carlton Hotel Bournemouth offers elegant and flexible event spaces ideal for conferences, weddings, corporate meetings and celebrations.",
+  "events_text2": "With stunning sea views, modern facilities and a dedicated events team, every event becomes a memorable experience.",
+
+  "spaces": "Event Spaces",
+
+  "meyrick": "Meyrick Suite",
+  "meyrick_desc": "A grand ballroom ideal for conferences, weddings and banquets up to 200 guests.",
+
+  "orangery": "Orangery",
+  "orangery_desc": "A bright and elegant space with sea views perfect for smaller meetings and events.",
+
+  "boardroom": "Boardrooms",
+  "boardroom_desc": "Modern meeting rooms designed for business meetings, training and conferences.",
+
+  "facilities": "Facilities",
+
+  "wifi": "High-Speed WiFi",
+  "wifi_desc": "Reliable internet access for all events.",
+
+  "catering": "Catering",
+  "catering_desc": "Custom menus from Frederick’s Restaurant.",
+
+  "stay": "Accommodation",
+  "stay_desc": "Guests can stay in rooms and suites on-site.",
+
+ 
+  "leisure_desc": "Access to pools and wellness facilities.",
+
+  "capacity": "Capacity",
+  "note": "Capacities may vary depending on layout.",
+
+  "plan_event": "Plan Your Event",
+  "plan_desc": "Our team will help you create a seamless and memorable event experience.",
+  "contact_btn": "Contact Us"
+
+ 
+
+ 
+
+}
